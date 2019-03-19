@@ -1,0 +1,22 @@
+{
+  "type": "fs",
+  "schema": [
+    {
+      "name": "accessKeyId",
+      "type": "string"
+    },
+    {
+      "name": "secretAccessKey",
+      "type": "string"
+    },
+    {
+      "name": "region",
+      "type": "string"
+    },
+    {
+      "name": "bucket",
+      "type": "string"
+    }
+  ],
+  "icon": "icon.png"
+}

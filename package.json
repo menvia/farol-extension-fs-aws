@@ -1,0 +1,25 @@
+{
+  "name": "farol-extension-fs-aws",
+  "version": "1.0.0",
+  "description": "Farol Extension - AWS S3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/menvia/farol-extension-fs-aws.git"
+  },
+  "keywords": [
+    "farol",
+    "extension",
+    "aws",
+    "s3"
+  ],
+  "author": "Menvia Developer <developer@menvia.com> (https://menvia.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/menvia/farol-extension-fs-aws/issues"
+  },
+  "homepage": "https://github.com/menvia/farol-extension-fs-aws#readme"
+}
