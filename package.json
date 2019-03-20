@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/menvia/farol-extension-fs-aws/issues"
   },
-  "homepage": "https://github.com/menvia/farol-extension-fs-aws#readme"
+  "homepage": "https://github.com/menvia/farol-extension-fs-aws#readme",
+  "dependencies": {
+    "aws-sdk": "^2.424.0"
+  }
 }
