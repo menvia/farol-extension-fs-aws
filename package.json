@@ -4,6 +4,7 @@
   "description": "Farol Extension - AWS S3",
   "main": "index.js",
   "scripts": {
+    "postversion": "npm publish --access public",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

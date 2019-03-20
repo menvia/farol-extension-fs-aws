@@ -1,4 +1,11 @@
 {
+  "name": "AWS File System",
+  "description": {
+    "en": "Farol Extension to integrate with AWS S3 (Storage) service",
+    "pt": "Extensão do Farol para integrar com os serviços da AWS S3 (Storage)",
+    "es": "Extensión de Farol para integrarse con el servicio AWS S3 (almacenamiento)"
+  },
+  "icon": "icon.png",
   "type": "fs",
   "schema": [
     {
@@ -17,6 +24,5 @@
       "name": "bucket",
       "type": "string"
     }
-  ],
-  "icon": "icon.png"
+  ]
 }
